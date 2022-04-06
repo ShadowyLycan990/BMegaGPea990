@@ -2,6 +2,10 @@
 - 👋 Hi, I’m @BP-Studio990
 - 👀 I’m interested in PvZ 2 modding and coding
 - 🌱 I’m currently learning making a website and a Discord bot
+- 📫 How to reach me? 
+     You can contact me in:
+     - [Bilibili](https://space.bilibili.com/1147105262)
+     - [Discord server](https://discord.gg/JgjmynCYtb)
 
 # Favorite Quote
 > Never give up and keep trying.
